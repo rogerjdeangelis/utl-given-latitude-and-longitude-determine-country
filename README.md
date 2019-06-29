@@ -1,21 +1,35 @@
 # utl-given-latitude-and-longitude-determine-country
 
 Given latitude and longitude determine the country 
-
-    Given latitude and longitude determine the country                                                                         
-                                                                                                                               
-    There is an example on my github site using SAS ginside to                                                                 
-    get US atate form Lat Lon.                                                                                                 
-                                                                                                                               
-    This does not involve a limited google API.                                                                                
-    No limit to the number of latitude and longitude pairs.                                                                    
-                                                                                                                               
-    Latitude and longitude for 244 countries;                                                                                  
-    https://developers.google.com/public-data/docs/canonical/countries_csv                                                     
-                                                                                                                               
-    StackOverFlow R                                                                                                            
-    https://stackoverflow.com/questions/21708488/get-country-and-continent-from-longitude-and-latitude-point-in-r              
-                                                                                                                               
+    Given latitude and longitude determine the country                                                                   
+                                                                                                                         
+    github                                                                                                               
+    https://tinyurl.com/y5ycr87t                                                                                         
+    https://github.com/rogerjdeangelis/utl-given-latitude-and-longitude-determine-country                                
+                                                                                                                         
+    There is an example on my github site using SAS ginside to                                                           
+    get US atate form Lat Lon.                                                                                           
+                                                                                                                         
+    This does not involve a limited google API.                                                                          
+    No limit to the number of latitude and longitude pairs.                                                              
+                                                                                                                         
+    Latitude and longitude for 244 countries;                                                                            
+    https://developers.google.com/public-data/docs/canonical/countries_csv                                               
+                                                                                                                         
+    Countries csv in xlsx                                                                                                
+    https://tinyurl.com/y67g9q5k                                                                                         
+    https://github.com/rogerjdeangelis/utl-given-latitude-and-longitude-determine-country/blob/master/countries.xlsx     
+                                                                                                                         
+    StackOverFlow R                                                                                                      
+    https://tinyurl.com/y2tmtl4e                                                                                         
+    https://stackoverflow.com/questions/21708488/get-country-and-continent-from-longitude-and-latitude-point-in-r        
+                                                                                                                         
+    Lat Lon repos                                                                                                        
+    https://github.com/rogerjdeangelis?utf8=%E2%9C%93&tab=repositories&q=lat+lon&type=&language=                         
+                                                                                                                         
+    ginside                                                                                                              
+    https://github.com/rogerjdeangelis/utl-given-latitude-and-longitude-determine-the-us-state-mapping                   
+                                                                       
     *_                   _                                                                                                     
     (_)_ __  _ __  _   _| |_                                                                                                   
     | | '_ \| '_ \| | | | __|                                                                                                  
